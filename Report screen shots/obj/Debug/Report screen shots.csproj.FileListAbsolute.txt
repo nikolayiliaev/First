@@ -1,0 +1,76 @@
+c:\users\elior_gadassi\documents\visual studio 2015\Projects\Report screen shots\Report screen shots\bin\Debug\Report screen shots.exe.config
+C:\Users\elior_gadassi\documents\visual studio 2015\Projects\Report screen shots\Report screen shots\bin\Debug\Report screen shots.exe
+C:\Users\elior_gadassi\documents\visual studio 2015\Projects\Report screen shots\Report screen shots\bin\Debug\Report screen shots.pdb
+C:\Users\elior_gadassi\documents\visual studio 2015\Projects\Report screen shots\Report screen shots\bin\Debug\WebDriver.dll
+C:\Users\elior_gadassi\documents\visual studio 2015\Projects\Report screen shots\Report screen shots\bin\Debug\WebDriver.Support.dll
+C:\Users\elior_gadassi\documents\visual studio 2015\Projects\Report screen shots\Report screen shots\bin\Debug\WebDriver.xml
+C:\Users\elior_gadassi\documents\visual studio 2015\Projects\Report screen shots\Report screen shots\bin\Debug\WebDriver.Support.xml
+C:\Users\elior_gadassi\documents\visual studio 2015\Projects\Report screen shots\Report screen shots\obj\Debug\Report screen shots.csprojResolveAssemblyReference.cache
+C:\Users\elior_gadassi\documents\visual studio 2015\Projects\Report screen shots\Report screen shots\obj\Debug\Report screen shots.exe
+C:\Users\elior_gadassi\documents\visual studio 2015\Projects\Report screen shots\Report screen shots\obj\Debug\Report screen shots.pdb
+C:\Users\elior_gadassi\Documents\Visual Studio 2015\Projects\Report screen shots\Report screen shots\bin\Debug\Npgsql.dll
+C:\Users\elior_gadassi\Documents\Visual Studio 2015\Projects\Report screen shots\Report screen shots\bin\Debug\Npgsql.xml
+d:\Users\user\Desktop\Report screen shots\Report screen shots\bin\Debug\Report screen shots.exe.config
+d:\Users\user\Desktop\Report screen shots\Report screen shots\obj\Debug\Report screen shots.exe
+d:\Users\user\Desktop\Report screen shots\Report screen shots\obj\Debug\Report screen shots.pdb
+d:\Users\user\Desktop\Report screen shots\Report screen shots\obj\Debug\Report screen shots.csprojResolveAssemblyReference.cache
+d:\Users\user\Desktop\Report screen shots\Report screen shots\bin\Debug\Report screen shots.exe
+d:\Users\user\Desktop\Report screen shots\Report screen shots\bin\Debug\Report screen shots.pdb
+d:\Users\user\Desktop\Report screen shots\Report screen shots\bin\Debug\Npgsql.dll
+d:\Users\user\Desktop\Report screen shots\Report screen shots\bin\Debug\WebDriver.dll
+d:\Users\user\Desktop\Report screen shots\Report screen shots\bin\Debug\WebDriver.Support.dll
+d:\Users\user\Desktop\Report screen shots\Report screen shots\bin\Debug\Npgsql.xml
+d:\Users\user\Desktop\Report screen shots\Report screen shots\bin\Debug\WebDriver.xml
+d:\Users\user\Desktop\Report screen shots\Report screen shots\bin\Debug\WebDriver.Support.xml
+\\nas\Public\Advertisers\Ad_Networks\Bizdev 2016\Shahaf\Report screen shots\Report screen shots\bin\Debug\Report screen shots.exe.config
+\\nas\Public\Advertisers\Ad_Networks\Bizdev 2016\Shahaf\Report screen shots\Report screen shots\obj\Debug\Report screen shots.exe
+\\nas\Public\Advertisers\Ad_Networks\Bizdev 2016\Shahaf\Report screen shots\Report screen shots\obj\Debug\Report screen shots.pdb
+\\nas\Public\Advertisers\Ad_Networks\Bizdev 2016\Shahaf\Report screen shots\Report screen shots\bin\Debug\Report screen shots.exe
+\\nas\Public\Advertisers\Ad_Networks\Bizdev 2016\Shahaf\Report screen shots\Report screen shots\bin\Debug\Report screen shots.pdb
+\\nas\Public\Advertisers\Ad_Networks\Bizdev 2016\Shahaf\Report screen shots\Report screen shots\bin\Debug\Npgsql.dll
+\\nas\Public\Advertisers\Ad_Networks\Bizdev 2016\Shahaf\Report screen shots\Report screen shots\bin\Debug\WebDriver.dll
+\\nas\Public\Advertisers\Ad_Networks\Bizdev 2016\Shahaf\Report screen shots\Report screen shots\bin\Debug\WebDriver.Support.dll
+\\nas\Public\Advertisers\Ad_Networks\Bizdev 2016\Shahaf\Report screen shots\Report screen shots\bin\Debug\Npgsql.xml
+\\nas\Public\Advertisers\Ad_Networks\Bizdev 2016\Shahaf\Report screen shots\Report screen shots\bin\Debug\WebDriver.xml
+\\nas\Public\Advertisers\Ad_Networks\Bizdev 2016\Shahaf\Report screen shots\Report screen shots\bin\Debug\WebDriver.Support.xml
+\\nas\Public\Advertisers\Ad_Networks\Bizdev 2016\Shahaf\Report screen shots\Report screen shots\obj\Debug\Report screen shots.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Shahaf\Report screen shots\Report screen shots\bin\Debug\Report screen shots.exe.config
+C:\Users\User\Desktop\Shahaf\Report screen shots\Report screen shots\obj\Debug\Report screen shots.exe
+C:\Users\User\Desktop\Shahaf\Report screen shots\Report screen shots\obj\Debug\Report screen shots.pdb
+C:\Users\User\Desktop\Shahaf\Report screen shots\Report screen shots\bin\Debug\Report screen shots.exe
+C:\Users\User\Desktop\Shahaf\Report screen shots\Report screen shots\bin\Debug\Report screen shots.pdb
+C:\Users\User\Desktop\Shahaf\Report screen shots\Report screen shots\bin\Debug\Npgsql.dll
+C:\Users\User\Desktop\Shahaf\Report screen shots\Report screen shots\bin\Debug\WebDriver.dll
+C:\Users\User\Desktop\Shahaf\Report screen shots\Report screen shots\bin\Debug\WebDriver.Support.dll
+C:\Users\User\Desktop\Shahaf\Report screen shots\Report screen shots\bin\Debug\Npgsql.xml
+C:\Users\User\Desktop\Shahaf\Report screen shots\Report screen shots\bin\Debug\WebDriver.xml
+C:\Users\User\Desktop\Shahaf\Report screen shots\Report screen shots\bin\Debug\WebDriver.Support.xml
+C:\Users\User\Desktop\Shahaf\Report screen shots\Report screen shots\obj\Debug\Report screen shots.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ben backup\Report screen shots\Report screen shots\bin\Debug\Report screen shots.exe.config
+C:\Users\User\Desktop\ben backup\Report screen shots\Report screen shots\obj\Debug\Report screen shots.exe
+C:\Users\User\Desktop\ben backup\Report screen shots\Report screen shots\obj\Debug\Report screen shots.pdb
+C:\Users\User\Desktop\ben backup\Report screen shots\Report screen shots\bin\Debug\Report screen shots.exe
+C:\Users\User\Desktop\ben backup\Report screen shots\Report screen shots\bin\Debug\Report screen shots.pdb
+C:\Users\User\Desktop\ben backup\Report screen shots\Report screen shots\bin\Debug\Npgsql.dll
+C:\Users\User\Desktop\ben backup\Report screen shots\Report screen shots\bin\Debug\WebDriver.dll
+C:\Users\User\Desktop\ben backup\Report screen shots\Report screen shots\bin\Debug\WebDriver.Support.dll
+C:\Users\User\Desktop\ben backup\Report screen shots\Report screen shots\bin\Debug\Npgsql.xml
+C:\Users\User\Desktop\ben backup\Report screen shots\Report screen shots\bin\Debug\WebDriver.xml
+C:\Users\User\Desktop\ben backup\Report screen shots\Report screen shots\bin\Debug\WebDriver.Support.xml
+C:\Users\User\Desktop\ben backup\Report screen shots\Report screen shots\obj\Debug\Report screen shots.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ben backup\Report screen shots\Report screen shots\obj\Debug\Report_screen_shots.Form1.resources
+C:\Users\User\Desktop\ben backup\Report screen shots\Report screen shots\obj\Debug\Report screen shots.csproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\Report screen shots\Report screen shots\bin\Debug\Report screen shots.exe.config
+C:\Users\Nico\Desktop\Report screen shots\Report screen shots\obj\Debug\Report screen shots.exe
+C:\Users\Nico\Desktop\Report screen shots\Report screen shots\obj\Debug\Report screen shots.pdb
+C:\Users\Nico\Desktop\Report screen shots\Report screen shots\bin\Debug\Report screen shots.exe
+C:\Users\Nico\Desktop\Report screen shots\Report screen shots\bin\Debug\Report screen shots.pdb
+C:\Users\Nico\Desktop\Report screen shots\Report screen shots\bin\Debug\Npgsql.dll
+C:\Users\Nico\Desktop\Report screen shots\Report screen shots\bin\Debug\WebDriver.dll
+C:\Users\Nico\Desktop\Report screen shots\Report screen shots\bin\Debug\WebDriver.Support.dll
+C:\Users\Nico\Desktop\Report screen shots\Report screen shots\bin\Debug\Npgsql.xml
+C:\Users\Nico\Desktop\Report screen shots\Report screen shots\bin\Debug\WebDriver.xml
+C:\Users\Nico\Desktop\Report screen shots\Report screen shots\bin\Debug\WebDriver.Support.xml
+C:\Users\Nico\Desktop\Report screen shots\Report screen shots\obj\Debug\Report screen shots.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\Report screen shots\Report screen shots\obj\Debug\Report_screen_shots.Form1.resources
+C:\Users\Nico\Desktop\Report screen shots\Report screen shots\obj\Debug\Report screen shots.csproj.GenerateResource.Cache

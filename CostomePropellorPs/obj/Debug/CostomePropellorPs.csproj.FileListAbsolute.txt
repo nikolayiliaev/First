@@ -1,0 +1,10 @@
+d:\Users\user\Desktop\Report screen shots\CostomePropellorPs\bin\Debug\CostomePropellorPs.exe.config
+d:\Users\user\Desktop\Report screen shots\CostomePropellorPs\obj\Debug\CostomePropellorPs.csproj.ResolveComReference.cache
+d:\Users\user\Desktop\Report screen shots\CostomePropellorPs\bin\Debug\CostomePropellorPs.exe
+d:\Users\user\Desktop\Report screen shots\CostomePropellorPs\bin\Debug\CostomePropellorPs.pdb
+d:\Users\user\Desktop\Report screen shots\CostomePropellorPs\obj\Debug\CostomePropellorPs.exe
+d:\Users\user\Desktop\Report screen shots\CostomePropellorPs\obj\Debug\CostomePropellorPs.pdb
+d:\Users\user\Desktop\Report screen shots\CostomePropellorPs\obj\Debug\CostomePropellorPs.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ben backup\Report screen shots\CostomePropellorPs\obj\Debug\CostomePropellorPs.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ben backup\Report screen shots\CostomePropellorPs\obj\Debug\CostomePropellorPs.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\ben backup\Report screen shots\CostomePropellorPs\obj\Debug\CostomePropellorPs.exe
